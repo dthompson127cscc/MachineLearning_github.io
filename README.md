@@ -13,9 +13,11 @@
 The application of Machine Learning that I researched is Litigation Prediction in the insurance industry. This model can determine the probability that a claim will result in a lawsuit. 
 
 **a. How does Machine Learning improve or replace existing solutions?**
+
   In the past, insurers relied on their adjusters' experience, simple business rules, and basic reporting to make       determinations on likelihood of a claim becoming litigated. With the introduction of machine learning, a model        can learn the relationships between claim type, injury severity, property damage amount, prior claim history,         court jurisdiction, medical treatment, previous litigation outcomes, etc. The model learns what combination of        these variables tends to result in lawsuits sooner in the claims process and with greater accuracy then               traditional methods. This also allows for better financial forecasting. 
 
 **b. Is the application in development or actively being used by companies/institutions?**
+
   This application is actively being used by companies/institutions but continues to be improved with better data.      The addition of Agentic AI will also enable the models to make recommendation for next steps based on information     received.
 
 #### Describe at least ONE ethical concern using Machine Learning for this application?
